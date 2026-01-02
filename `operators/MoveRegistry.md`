@@ -1,0 +1,163 @@
+`# Operators MoveRegistry`
+Moves Registry v1.0
+
+
+
+
+
+MOVE NAME: DNA Architect
+
+STATUS: Core
+LAYER: Structural / Meta
+OPERATING MODE: Stabilizing
+COHERENCE DEPENDENCY: Spine-generating
+
+FUNCTION:
+Extract the irreducible survival core and constraint structure of a system.
+
+INPUT TYPE:
+Belief system, project, framework, argument, organization
+
+OUTPUT TYPE:
+Minimal core axioms + non-negotiables + failure vectors
+
+PRIMARY USE:
+System auditing, foundation-setting, pre-design validation
+
+RISKS / FAILURE MODES:
+False minimalism; mistaking efficiency for truth
+
+ECOSYSTEM FIT:
+SSA (Spine)
+
+NOTES:
+This is not a “move” in the casual sense — it is a precondition operator.
+Every other serious move implicitly depends on it.
+
+Verdict:
+Promotion justified. Non-negotiable.
+
+⸻
+
+MOVE NAME: Disassembler
+
+STATUS: Quarantined (Intentional)
+LAYER: Disruptive
+OPERATING MODE: Destabilizing
+COHERENCE DEPENDENCY: Spine-threatening
+
+FUNCTION:
+Deliberately fracture coherence to expose hidden assumptions and induce novelty.
+
+INPUT TYPE:
+Highly coherent concepts, identities, narratives, systems
+
+OUTPUT TYPE:
+Fragments, ambiguity fields, noise patterns
+
+PRIMARY USE:
+Creative resets, deconditioning, assumption sabotage
+
+RISKS / FAILURE MODES:
+Irrecoverable incoherence; nihilism; loss of evaluative signal
+
+ECOSYSTEM FIT:
+Standalone / Creative-only
+
+NOTES:
+This is not unsafe by accident.
+It is unsafe by design.
+Must never be invoked without a reassembly or audit operator downstream.
+
+Verdict:
+Correctly quarantined. Valuable because it is volatile.
+
+⸻
+
+MOVE NAME: INIT
+
+STATUS: Experimental (Contained)
+LAYER: Meta / Generative
+OPERATING MODE: Recursive
+COHERENCE DEPENDENCY: Self-modifying (unstable)
+
+FUNCTION:
+Instantiate symbolic systems capable of mutating their own axioms, primitives, and grammar.
+
+INPUT TYPE:
+Axioms, primitives, constraints
+
+OUTPUT TYPE:
+Evolving symbolic frameworks + representations
+
+PRIMARY USE:
+Exploration, pedagogy, sandboxed prototyping
+
+RISKS / FAILURE MODES:
+Runaway recursion; abstraction collapse; loss of grounding
+
+ECOSYSTEM FIT:
+Adjacent to SSA (Sandbox only)
+
+NOTES:
+INIT is not a tool — it’s a petri dish.
+It should inform SSA, not inhabit it.
+
+Verdict:
+Separate repo is correct. No fusion until hard constraints exist.
+
+⸻
+
+MOVE NAME: SDM (Systemic Dissonance Management)
+
+STATUS: Core
+LAYER: Structural / Diagnostic
+OPERATING MODE: Transformative
+COHERENCE DEPENDENCY: Requires spine
+
+FUNCTION:
+Map how systems externalize, suppress, redistribute, or ritualize internal contradictions.
+
+INPUT TYPE:
+Ideologies, institutions, belief systems, narratives
+
+OUTPUT TYPE:
+Dissonance topology + management strategies
+
+PRIMARY USE:
+Critique, system health analysis, integrity audits
+
+RISKS / FAILURE MODES:
+Over-application leading to cynicism or reductionism
+
+ECOSYSTEM FIT:
+SSA (Analytical arm)
+
+NOTES:
+This is how SSA detects why systems lie to themselves without moralizing.
+
+Verdict:
+Correctly promoted. Flagship analytic move.
+
+⸻
+
+4. Promotion vs Quarantine — formal rule (lock this in)
+
+A move may be Core only if:
+	1.	It preserves or restores coherence
+	2.	It can be safely applied repeatedly
+	3.	It does not require interpretive heroics to recover from
+
+A move must be Quarantined if:
+	1.	It intentionally destabilizes coherence
+	2.	It cannot guarantee recoverability
+	3.	Its misuse cost exceeds its misuse detectability
+
+By that rule:
+	•	Disassembler stays quarantined
+	•	INIT stays sandboxed
+	•	DNA Architect + SDM are legitimately core
+
+No ambiguity left.
+
+⸻
