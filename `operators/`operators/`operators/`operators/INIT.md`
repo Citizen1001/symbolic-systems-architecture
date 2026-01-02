@@ -1,0 +1,31 @@
+# INIT Operator
+
+STATUS: Experimental (Contained)
+LAYER: Meta / Generative
+OPERATING MODE: Recursive
+COHERENCE DEPENDENCY: Self-modifying (unstable)
+
+FUNCTION:
+Instantiate symbolic systems capable of mutating their own axioms, primitives, and grammar.
+
+INPUT TYPE:
+Axioms, primitives, constraints
+
+OUTPUT TYPE:
+Evolving symbolic frameworks + representations
+
+PRIMARY USE:
+Exploration, pedagogy, sandboxed prototyping
+
+RISKS / FAILURE MODES:
+Runaway recursion; abstraction collapse; loss of grounding
+
+ECOSYSTEM FIT:
+Adjacent to SSA (Sandbox only)
+
+NOTES:
+INIT is not a tool — it's a petri dish.
+It should inform SSA, not inhabit it.
+
+Verdict:
+Separate repo is correct. No fusion until hard constraints exist.
